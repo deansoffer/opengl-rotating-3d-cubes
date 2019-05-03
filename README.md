@@ -1,3 +1,5 @@
 # opengl-rotating-3d-cubes
 just an experiment with opengl
-![alt text](https://ibb.co/p49Q1CF)
+![Rotating 3d Cubes](https://i.ibb.co/BTSGf8M/rotate-cubes.jpg)
+
+
