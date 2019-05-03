@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\dean-pc\source\repos\gameattempt\gameattempt\main.cpp(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameAttempt.vcxproj -> C:\Users\dean-pc\source\repos\GameAttempt\Debug\GameAttempt.exe
